@@ -1,0 +1,15 @@
+[
+  {
+    "contact_id": "test_001",
+    "name": "Test Contact",
+    "phone": "+1234567890",
+    "email": "test@example.com",
+    "relationship": "friend",
+    "priority": 1,
+    "notification_preferences": {
+      "sms": true,
+      "call": true,
+      "email": false
+    }
+  }
+]

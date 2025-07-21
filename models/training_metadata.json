@@ -1,0 +1,14 @@
+{
+  "training_date": "2025-07-20T00:01:45.276260",
+  "num_epochs": 100,
+  "learning_rate": 0.001,
+  "batch_size": 32,
+  "device": "cpu",
+  "models_trained": [
+    "nlp_model.pth",
+    "behavioral_model.pth",
+    "face_model.pth",
+    "emergency_model.pth",
+    "fusion_model.pth"
+  ]
+}
