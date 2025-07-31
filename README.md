@@ -269,9 +269,7 @@ class SensorType(Enum):
 4. Add tests
 5. Submit a pull request
 
-## 📄 License
 
-MIT License - see LICENSE file for details
 
 ## 🆘 Support
 
